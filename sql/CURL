@@ -1,0 +1,7 @@
+
+curl -i -X POST -H 'Content-Type: application/json; charset=utf-8' --data '{ "date": "2015-12-21T12:55:12", "amount": 100.00, "vat": 20.00, "reason": "WHY?" }' 'http://localhost:8084/AlchemytecRestClient/expenses'
+
+scurl -i 'http://localhost:8084/AlchemytecRestClient/expenses'
+
+
+
