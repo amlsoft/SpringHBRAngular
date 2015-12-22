@@ -5,7 +5,7 @@ The alchemytec Demo App provides a way of demoing the AngularJs client with Spri
 Installation
 ------------
 The app server can be started using the following commands:
-1. Run the create-db.sql Db script which located in sql folder
+1. Run the create-db.sql Db script which located in sql folder (Database username as root and password as sqlserver)
 2. Build the project 
 	mvn clean install 
 3. Run the project
